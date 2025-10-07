@@ -1,2 +1,2 @@
-# Base.Learn
+# base learn
 Tutorial how to clear task base learn at guild and get pin
